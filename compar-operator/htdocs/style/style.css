@@ -1,0 +1,124 @@
+.orange {
+    transition-duration: 1s;
+    
+}
+
+.btn {
+
+    color: white;
+    background: linear-gradient(to right, orangered, orange);
+    border: none;
+    
+}
+
+.btn:hover {
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, orange -30%, orangered 110%);
+    color: rgb(255, 255, 255) ;
+    border: none;
+    transition-duration: 1s;
+}
+
+.button-operator{
+   margin: 43.5px 43.5% 43.5px 43.5%;
+   border-radius: 50px;
+}
+
+.card-footer {
+    background-color: rgb(250, 250, 250);
+    border-radius: 33%;
+}
+
+.destinations {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 15px 0 15px 0;
+}
+
+.operators {
+    margin: 15px 0 15px 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link .Acceuil {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.w-75 {
+    width: 100% !important;
+}
+
+
+div.card-voyage {
+    width: 50% !important;
+}
+
+.espace-commentaire {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 15px 0 15px 20px;
+    border: solid 1.5px #dfdfdf;
+    width: 76.13%;
+    background-color: wheat;
+}
+
+.title-operator {
+    text-align: center;
+    padding: 15px 0 15px 20px;
+}
+
+h1 , .title-destination {
+    text-align: center;
+    padding: 15px 0 15px 0px;
+}
+
+#value{
+    margin-left:46%;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+#admin{
+
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#admin a{
+
+    width: 20%;
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+
+#menu{
+
+    text-align: center;
+    margin-top: 1%;
+
+}
+
+#boxmenu{
+
+    margin-left: 9.71%;
+    margin-right: 9.71%;
+    background-color: wheat;
+    padding-bottom: 1%;
+    padding-top: 0.5%;
+    margin-top: 1%;
+
+}
+
+#poste{
+
+    border-radius: 10px;
+
+}
