@@ -19,7 +19,7 @@ h1{
 
     border: solid 3px #343a40;
     margin-top: 10px;
-    background-color: lightgoldenrodyellow;
+    background-color: floralwhite;
     text-align: center;
 
 }
@@ -50,7 +50,7 @@ h1{
     width: 100%;
     padding: 3em;
     position: relative;
-    background: lightgoldenrodyellow;
+    background: floralwhite;
 
   }
   
@@ -79,7 +79,7 @@ h1{
 
   #operateur{
 
-    background-color: lightgoldenrodyellow;
+    background-color: floralwhite;
     margin-bottom: 20px;
     text-align: center;
     padding-top: 1%;
@@ -167,7 +167,7 @@ h1{
 
   ::-webkit-scrollbar-thumb{
 
-    background-color: lightgoldenrodyellow;
+    background-color: floralwhite;
     border-radius: 10px;
     border: 2px solid #343A40;
 
